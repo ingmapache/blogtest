@@ -11,9 +11,8 @@ body
 
 .container
 {
-    border: 10px solid black;
+    border: 10px solid rgb(80, 5, 81);
     width: 90vw;
-    height: 30vh;
     display: flex;
     flex-direction: column;
     place-content: center;
@@ -23,5 +22,10 @@ body
 
 h1{
     font-size: 4rem;
+    margin: 0;
+}
+
+.owo
+{
     margin: 0;
 }
