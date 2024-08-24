@@ -11,13 +11,21 @@ body
 
 .container
 {
-    border: 10px solid black;
+    border: 10px solid rgb(80, 5, 81);
     width: 90vw;
-    height: 30vh;
-
+    display: flex;
+    flex-direction: column;
+    place-content: center;
+    font-size: 1.5rem;
+    margin: 0;
 }
 
 h1{
-    font-size: 3rem;
+    font-size: 4rem;
+    margin: 0;
+}
+
+.owo
+{
     margin: 0;
 }
